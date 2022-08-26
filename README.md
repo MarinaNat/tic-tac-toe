@@ -24,3 +24,8 @@ npm run dev
 ## Ссылка на GitHub Pages
 
 https://marinanat.github.io/tic-tac-toe/
+
+## В планах
+
+* добавить кнопку "еще играть"
+* добавить истоию ходов
