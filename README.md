@@ -14,7 +14,12 @@ TIC-TAC-TOE - игра в крестики-нолики с отслеживан�
 * Create React App;
 
 ## Скриншот:
-добавить скриншот
+
+<details><summary><b>Развернуть</b></summary>
+
+https://raw.githubusercontent.com/MarinaNat/tic-tac-toe/master/.github/images/screenshot1.PNG
+
+</details>
 
 ## Установка и запуск проекта
 - Клонировать репозиторий:
