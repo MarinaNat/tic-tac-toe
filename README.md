@@ -17,6 +17,8 @@ TIC-TAC-TOE - игра в крестики-нолики с отслеживан�
 
 <details><summary><b>Развернуть</b></summary>
 
+[![tic-tac-toe](https://raw.githubusercontent.com/MarinaNat/tic-tac-toe/master/.github/images/screenshot1.PNG)](https://MarinaNat.github.io/tic-tac-toe/)
+
 https://raw.githubusercontent.com/MarinaNat/tic-tac-toe/master/.github/images/screenshot1.PNG
 
 </details>
